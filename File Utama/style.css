@@ -209,9 +209,9 @@ h3 {
     margin-top: 50px;
 }
 
-@media screen and (max-width: 991.98px) {
+@media screen and (max-width: 922px) {
     .wrapper {
-        width: 90%;
+        width: 100%;
     }
 
     .logo a {
