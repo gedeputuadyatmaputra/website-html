@@ -1,0 +1,32 @@
+.header{
+    padding: 50px;
+    text-align: center;
+    background: rgb(244, 151, 125);
+    color : white;
+    font-size: 30 px;
+    font-family: Helvetica, sans-serif;
+}
+  
+.profile{
+    border-radius: 100%;
+    width: 160px;
+    height: 150px;
+}
+  
+.btn-secondary{
+    background-color: rgb(73, 79, 255);
+}
+a.tbl-pink {
+    background: #353bfa;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px 15px 20px;
+    color:#ffffff ;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+a.tbl-pink:hover {
+    background:#ff3502;
+    text-decoration: none;
+}
