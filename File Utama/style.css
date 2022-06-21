@@ -145,7 +145,7 @@ p {
 }
 
 .kartu-tutor img {
-    width: 120px;
+    width: 80%;
     border-radius: 50%;
 }
 
@@ -170,7 +170,7 @@ p {
 }
 
 .kartu-partner img {
-    width: 120px;
+    width: 150px;
     border-radius: 50%;
 }
 
