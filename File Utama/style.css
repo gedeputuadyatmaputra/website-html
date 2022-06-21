@@ -93,7 +93,7 @@ h2 {
 }
 
 a.tbl-biru {
-    background: #0073ff;
+    background: #3f72af;
     border-radius: 20px;
     margin-top: 20px;
     padding: 15px 20px 15px 20px;
@@ -103,12 +103,12 @@ a.tbl-biru {
 }
 
 a.tbl-biru:hover {
-    background: #ff0000;
+    background: #fc5185;
     text-decoration: none;
 }
 
 a.tbl-pink {
-    background: #ff0000;
+    background: #fc5185;
     border-radius: 20px;
     margin-top: 20px;
     padding: 15px 20px 15px 20px;
@@ -154,7 +154,7 @@ p {
     font-weight: 800;
     font-size: 25px;
     text-align: center;
-    color: #1a75de;
+    color: #364f6b;
 }
 
 .partner-list {
@@ -208,25 +208,10 @@ h3 {
     padding: 50px 0px 50px 0px;
     margin-top: 50px;
 }
-.tombol-menu {
-    position: absolute;
-    top: 1.7rem;
-    right: 1rem;
-    display: none;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 30px;
-    height: 20px;
-}
 
-.tombol-menu .garis {
-    height: 3px;
-    background-color: #3f72af;
-}
-
-@media screen and (max-width: 922px) {
+@media screen and (max-width: 991.98px) {
     .wrapper {
-        width: 100%;
+        width: 90%;
     }
 
     .logo a {
@@ -267,21 +252,5 @@ h3 {
 
     .kartu-partner {
         width: 50%;
-    }
-    .logo a {
-        display: inline;
-    }
-    .tombol-menu {
-        display: flex;
-    }
-    nav .menu {
-        display: none;
-    }
-    nav .menu.active {
-        display: flex;
-    }
-    nav ul li {
-        width:100%;
-        border-bottom:1px solid #333333;
     }
 }
