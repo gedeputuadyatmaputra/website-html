@@ -145,7 +145,7 @@ p {
 }
 
 .kartu-tutor img {
-    width: 50%;
+    width: 60%;
     border-radius: 50%;
    
 }
@@ -163,7 +163,7 @@ p {
     position: relative;
     display: flex;
     flex-wrap: wrap;
-    margin: 0 auto;
+    
 }
 
 .kartu-partner {
@@ -172,9 +172,9 @@ p {
 }
 
 .kartu-partner img {
-    width: 25px;
+    width: 100px;
     border-radius: 50%;
-    margin: auto;
+    
 }
 
 #contact {
